@@ -22,7 +22,4 @@ Developer Relations @ AWS • “Pro Athlete turned Cloud Engineer”• Dynamic
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rextheking&hide=TeX&layout=compact)
-
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=rextheking%2Frextheking&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
